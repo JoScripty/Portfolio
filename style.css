@@ -9,7 +9,7 @@ body{
 body::before{
   display: block;
   content: '';
-  height: 58px;
+  height: 52px;
 }
 
 /* TOGGLER ICON */
