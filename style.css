@@ -58,7 +58,7 @@
 /* Loader end */
 
 *{
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 body{
@@ -69,6 +69,12 @@ body::before{
   display: block;
   content: '';
   height: 52px;
+}
+
+#navBar-brand{
+  font-family: "Source Code Pro", monospace !important;
+  font-optical-sizing: auto !important;
+  font-weight: 400 !important;
 }
 
 /* TOGGLER ICON */
